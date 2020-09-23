@@ -430,3 +430,7 @@ a {
 img {
   border: 5px solid #edf0f2;
 }
+
+@media only screen and (max-width: 768px) {
+  .resume-heading h2 {text-align:center!important}
+  }
